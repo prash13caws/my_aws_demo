@@ -1,0 +1,25 @@
+# Terraform
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.*
+terraform.tfstate.backup
+terraform.tfstate.backup*
+*.terraform
+*.terraform*
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# Auto-generated Terraform variables
+terraform.auto.tfvars
+
+# IDE specific files
+*.idea
+*.idea.*
+
+# Python code
+*src
+*src*
+*venv
+*venv*
